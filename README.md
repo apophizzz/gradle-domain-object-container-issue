@@ -1,0 +1,1 @@
+# gradle-domain-object-container-issue
